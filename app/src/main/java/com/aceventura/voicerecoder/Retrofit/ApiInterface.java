@@ -6,6 +6,7 @@ import com.aceventura.voicerecoder.Retrofit.Modals.RegisterMod;
 import com.aceventura.voicerecoder.Retrofit.Modals.UploadMod;
 
 import okhttp3.MultipartBody;
+import okhttp3.RequestBody;
 import retrofit2.Call;
 import retrofit2.http.Body;
 import retrofit2.http.Field;
@@ -28,7 +29,7 @@ public interface ApiInterface {
     @POST(WebApi.upload)
     Call<UploadMod> Upload(
             @Header("Authorization") String token, // Authorization header
-            @Part("eventInfo") String eventinfo, // Eventinfo as a query parameter
+            @Part("eventInfo") RequestBody eventinfo, // Eventinfo as a query parameter
             @Part MultipartBody.Part file // File parameter
     );
 
