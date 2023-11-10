@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6177FC</color>
+    <color name="colorPrimaryDark">#576EF7</color>
+    <color name="colorAccent">#FF6584</color>
+<color name="black">#000</color>
+    <color name="white">#fff</color>
+    <color name="colorDarkBlue">#3D4054</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+
+    <color name="_bg__music_recording_start_screen_ek2_color">#E3EDE8</color>
+    <color name="_bg__group_14490_ek1_color">#000000</color>
+    <color name="rectangle_17530_color">#FDFDFE</color>
+    <color name="promoter__jazz_verein_moods_color">#76819B</color>
+    <color name="ellipse_22_color">#0E9271</color>
+    <color name="rectangle_11_color">#FFFFFF</color>
+    <color name="dashboard_color">#C4C4C4</color>
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dashboard"
+        android:icon="@drawable/evevec"
+        android:title="Events" />
+    <item
+        android:id="@+id/calendar1"
+        android:icon="@drawable/admin"
+        android:title="Admin" />
+<!--    <item-->
+<!--        android:id="@+id/dtimesheet1"-->
+<!--        android:title="Approve Timesheet"-->
+<!--        android:icon="@drawable/ic_baseline_av_timer_24"/>-->
+</menu>

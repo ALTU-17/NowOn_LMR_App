@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NowOn Live Music Recorder</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- music_recording_start_screen strings -->
+
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="event_information_string">Event Information</string>
+    <string name="promoter__jazz_verein_moods_string">Promoter: Jazz Verein Moods</string>
+    <string name="door_opening_string">Door opening</string>
+    <string name="date__28_06_2023_18_00_string">Date: 28.06.2023 18:00</string>
+    <string name="artist__luedji_luna______string">Artist: Luedji Luna, ...</string>
+    <string name="venue__the_moods_jazzclub_string">Venue: The Moods Jazzclub</string>
+    <string name="dooe_closing_string">Dooe closing</string>
+    <string name="date__28_06_23_23_00_string">Date: 28.06.23 23:00</string>
+    <string name="dashboard_string">Dashboard</string>
+    <string name="analytics_string">Analytics</string>
+</resources>
